@@ -61,5 +61,15 @@ El elemento HTML <input> se usa para crear controles interactivos para formulari
 Para qué sirven distintos valores de el atributo autocomplete: https://developer.mozilla.org/es/docs/Web/HTML/Atributos/autocomplete
 
 Para que los datos del campo sean obligatorios, se debe usar el atributo require en la etiqueta input.
+
+Para crear inputs con una lista de varias opciones, se puede desarrollar de dos maneras diferentes:
+.
+
+Etiqueta <select>: Esta permite crear la lista, con las etiquetas <option>:
+z.png.
+.
+
+Etiqueta <input list = “”>: De este modo, se puede utilizar una etiqueta <datalist> con etiquetas <option> dentro del input. De este modo, el usuario puede escribir dentro del input, y filtrar los resultados de la lista:
+y.png.
   
   

@@ -37,6 +37,9 @@ Preload=”auto”: atributo que ayuda para que el video se empiece a renderizar
   
   ### Formularios
   
+  El Elemento HTML <label> representa una etiqueta para un elemento en una interfaz de usuario. Este puede estar asociado con un control ya sea mediante la utilizacion del atributo for, o ubicando el control dentro del elemento label
+El elemento HTML <input> se usa para crear controles interactivos para formularios basados en la web con el fin de recibir datos del usuario. Hay disponible una amplia variedad de tipos de datos de entrada y widgets de control, que dependen del dispositivo y el agente de usuario (user agent).
+  
    <form action="">
     <label for="nombre">
       <span>Cual es tu nombre?</span>

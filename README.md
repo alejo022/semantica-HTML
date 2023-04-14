@@ -56,3 +56,10 @@ El elemento HTML <input> se usa para crear controles interactivos para formulari
   </form>
   
   
+  Para hacer que los campos del formulario se autocompleten solos con datos que ya ha usado antes el usuario (y están guardados en el navegador), se usa el atributo autocomplete dentro de la etiqueta input.
+
+Para qué sirven distintos valores de el atributo autocomplete: https://developer.mozilla.org/es/docs/Web/HTML/Atributos/autocomplete
+
+Para que los datos del campo sean obligatorios, se debe usar el atributo require en la etiqueta input.
+  
+  

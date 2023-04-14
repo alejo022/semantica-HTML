@@ -35,3 +35,21 @@ Preload=”auto”: atributo que ayuda para que el video se empiece a renderizar
 <source />: etiqueta que permite especificar diferentes rutas, esto con el fin de asegurar que el navegador pueda mostrar el video.
   
   
+  ### Formularios
+  
+   <form action="">
+    <label for="nombre">
+      <span>Cual es tu nombre?</span>
+      <input type="text" id="nombre" placeholder="Tu nombre" required>
+    </label>
+    <label for="inicio-platzi">
+      <span>Que dia comenzaste en Platzi?</span>
+      <input type="date" id="inicio-platzi" >
+    </label>
+    <label for="horario">
+      <span>En que horario estudias?</span>
+      <input type="time" id="horario" >
+    </label>
+  </form>
+  
+  

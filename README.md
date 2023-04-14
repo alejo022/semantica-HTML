@@ -73,3 +73,7 @@ Etiqueta <input list = “”>: De este modo, se puede utilizar una etiqueta <da
 y.png.
   
   
+  input type submit = lo utilizaremos solo en los formularios
+
+Button = lo utilizaremos en cualquier otro tipo de boton dentro de nuestro proyecto
+  
